@@ -42,7 +42,9 @@ section ol li {
     border-radius: 1em;
 }
 
-
+footer h2{
+  margin: .5em 0;
+}
 
 /**************/
 /*  SECTION 1 */
