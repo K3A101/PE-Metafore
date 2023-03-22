@@ -70,7 +70,8 @@ section:nth-of-type(2) figure {
 
 article  {
     padding:0  15em;
-    line-height: 1.5
+    line-height: 1.5;
+    font-size: 18px;
 }
 
 article h3 {
